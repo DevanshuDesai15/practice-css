@@ -1,1 +1,3 @@
-# practice-css
+# Practicing CSS
+
+## Revising the basics of CSS
